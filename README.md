@@ -1,12 +1,3 @@
-```
-
-░█████╗░██╗██████╗░██████╗░███╗░░██╗██████╗░  ░█████╗░██╗░░░░░░█████╗░███╗░░██╗███████╗
-██╔══██╗██║██╔══██╗██╔══██╗████╗░██║██╔══██╗  ██╔══██╗██║░░░░░██╔══██╗████╗░██║██╔════╝
-███████║██║██████╔╝██████╦╝██╔██╗██║██████╦╝  ██║░░╚═╝██║░░░░░██║░░██║██╔██╗██║█████╗░░
-██╔══██║██║██╔══██╗██╔══██╗██║╚████║██╔══██╗  ██║░░██╗██║░░░░░██║░░██║██║╚████║██╔══╝░░
-██║░░██║██║██║░░██║██████╦╝██║░╚███║██████╦╝  ╚█████╔╝███████╗╚█████╔╝██║░╚███║███████╗
-╚═╝░░╚═╝╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚══╝╚═════╝░  ░╚════╝░╚══════╝░╚════╝░╚═╝░░╚══╝╚══════╝
-```
 
 ![AirBnB](assets/hbnb_logo.png)
 
@@ -40,7 +31,7 @@ The Commandline Interpreter can be started by executing the command `./console.p
 
 **Example:**
 ```bash
-firdaus@ubuntu:~$ ./console.py
+azzam@ubuntu:~$ ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
@@ -54,7 +45,7 @@ all  destroy  show  update
 (hbnb) help quit
 Quit command to exit the program
 (hbnb) quit
-firdaus@ubuntu:~$
+azzam@ubuntu:~$
 ```
 ### OBJECTS IMPLEMENTED
 This repository contains the following files:
